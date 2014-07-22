@@ -16,5 +16,6 @@
     <author href="" email="">
         Hardeep Shoker 
     </author>
-<gap:splash src="splash.png" />
+
 </widget>
+<gap:splash src="splash.png" />
